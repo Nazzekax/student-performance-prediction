@@ -42,7 +42,6 @@ The target variable used for prediction is **Total Score**.
 * Distribution of Total Score
 * Study Hours vs Total Score
 * Attendance vs Total Score
-* Class Participation vs Total Score
 * Correlation Heatmap
 
 ### Machine Learning Models
